@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atomic Chunks/Demo.md",
+                "file": "Index/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Demo"
+              "title": "Untitled"
             }
           }
         ]
@@ -166,6 +166,8 @@
   },
   "active": "d428a39f486794c5",
   "lastOpenFiles": [
+    "Sources/Untitled.md",
+    "Index/Untitled.md",
     "Atomic Chunks/Demo.md",
     "Untitled.canvas",
     "Calendar.md",
