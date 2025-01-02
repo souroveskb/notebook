@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"ce0935a56b953d35","x":-100,"y":-170,"width":160,"height":60,"type":"text","text":"Storage"},
+		{"id":"573368e7daf81df5","x":-540,"y":-320,"width":120,"height":80,"type":"text","text":"Emails"}
+	],
+	"edges":[]
+}

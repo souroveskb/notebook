@@ -1,0 +1,1 @@
+We need to find if the [[LLM]]s are able to extract inputs from the bug reports. Do we need to format our bug reports in a standard or LLMs are capable enough to extract the commands given.
