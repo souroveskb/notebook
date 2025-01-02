@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "b3725543ce300203",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f50cbc22ce9a98e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d428a39f486794c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atomic Chunks/Demo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Demo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9ff97d2ba6a602c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6a82ea6fbbcfdf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dd64343cbfa560b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ce7668ca2d04d433",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ee9cd33e3c0c69bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72a39e2a28163790",
+    "type": "split",
+    "children": [
+      {
+        "id": "79283b2095507556",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab7da03cdcd6c718",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rough/new note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for new note"
+            }
+          },
+          {
+            "id": "7d5f66a31b7aa05f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Atomic Chunks/new file.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from new file"
+            }
+          },
+          {
+            "id": "a1f034bf9abad204",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "01057b99eb344b6a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rough/Questions.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Questions"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d428a39f486794c5",
+  "lastOpenFiles": [
+    "Atomic Chunks/Demo.md",
+    "Untitled.canvas",
+    "Calendar.md",
+    "Templates/Main note.md",
+    "Rough/Machine Learning.md",
+    "Rough/RecDroid.md",
+    "Rough/Neustring data questions.md",
+    "Rough/Exploration of email data based RAG.md",
+    "Rough/Bug reports coreutils.md",
+    "Rough/LLM's effect on human.md",
+    "Tags/HCAI.md",
+    "Tags/LLM.md",
+    "Tags/Neustring.md",
+    "Rough/LOR_MD Sakib Ul Rahman Sourove.pdf",
+    "Atomic Chunks/Annotation lab.md",
+    "Tags/INTAAS.md",
+    "Atomic Chunks/testnote.md",
+    "Rough/hello.md",
+    "Templates/Untitled.md",
+    "Atomic Chunks/new file.md",
+    "Atomic Chunks",
+    "Templates",
+    "Index",
+    "Tags",
+    "Sources",
+    "Rough"
+  ]
+}
